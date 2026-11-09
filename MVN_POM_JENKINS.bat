@@ -1,0 +1,1 @@
+java -cp bin;lib/* org.testng.TestNG D:\eclipse-workspace-test\MVN_POM_JENKINS_1\TestNG.xml

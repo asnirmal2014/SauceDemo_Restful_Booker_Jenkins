@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite1" verbose="5">
+	<test name="Test1">
+		<classes>
+			<class name="utility.TestBase" />
+			<class name="testcases.OrangeHRM_TestCase" />
+			<class name="pages.LoginPage" />
+			<class name="pages.Dashboard" />
+			<class name="pages.AdminPage" />
+		</classes>
+	</test>
+</suite>

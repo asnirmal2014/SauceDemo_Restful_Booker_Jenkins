@@ -1,0 +1,1 @@
+java -classpath D:\Eclipse_JEE_2020\plugins\org.eclipse.m2e.maven.runtime_1.16.0.20200610-1735\jars\plexus-classworlds-2.6.0.jar org.codehaus.plexus.classworlds.launcher.Launcher -B install
